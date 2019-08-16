@@ -1,0 +1,21 @@
+## Interface: 82000
+## Title:|cff00ccffIgorAddon|r
+## Author: Calis @Nemesis US
+## eMail: 
+## Notes: Hitekninja's Fun and Utility
+## Version: 1.14
+IgorCore.lua
+IgorDelete.lua
+IgorAlerta.lua
+IgorBonusRoll.lua
+IgorWorldPvP.lua
+IgorLootingMethod.lua
+IgorBNWhisper.lua
+IgorLV.lua
+IgorRess.lua
+IgorMail.lua
+IgorFollow.lua
+IgorAFK.lua
+
+
+
