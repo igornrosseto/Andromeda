@@ -6,9 +6,9 @@ function frame:OnEvent(self, event, ...)
 
 		local System = event;
 
-		if System == "Looting changed to free-for-all." then
+		if System == "You are now flagged for PvP combat and will remain so until toggled off." then
 
-			PlaySoundFile("Interface\\AddOns\\IgorAddonClassic\\Audio\\Audio26LootMethodFFA.mp3")
+			PlaySoundFile("Interface\\AddOns\\IgorAddon\\Audio\\Audio25Sharingan.mp3")
 		 end
 	end
 end

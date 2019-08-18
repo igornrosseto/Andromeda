@@ -6,7 +6,7 @@ function frame:OnEvent(self, event, ...)
 
 	if (self == "PLAYER_LEVEL_UP") then
 	print("Level up! New level: " .. (tostring(level + 1)))
-	PlaySoundFile("Interface\\AddOns\\IgorAddon\\Audio\\Audio13LV.mp3") 
+	PlaySoundFile("Interface\\AddOns\\IgorAddonClassic\\Audio\\Audio13LV.mp3") 
 	end
 end
 

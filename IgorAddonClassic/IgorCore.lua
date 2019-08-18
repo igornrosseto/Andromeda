@@ -16,7 +16,7 @@ linksecreto = math.random(1, 100)	 -- rng entre 1 e 100
 	end
 
 	if event == "PLAYER_DEAD" then
-	PlaySoundFile("Interface\\AddOns\\IgorAddon\\Audio\\Audio8oof.mp3", "Dialog")
+	PlaySoundFile("Interface\\AddOns\\IgorAddonClassic\\Audio\\Audio8oof.mp3", "Dialog")
 	end
 
 

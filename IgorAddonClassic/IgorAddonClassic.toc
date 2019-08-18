@@ -1,0 +1,20 @@
+## Interface: 11320
+## Title:|cff00ccffIgorAddonClassic|r
+## Author: Torbjornsson@Nemesis US
+## eMail: igornrx@gmail.com
+## Notes: Hitekninja's Fun and Utility
+## Version: 1.14 Classic
+IgorCore.lua
+IgorDelete.lua
+IgorLootingMethod.lua
+IgorFlag.lua
+IgorBNWhisper.lua
+IgorLV.lua
+IgorRess.lua
+IgorMail.lua
+IgorFollow.lua
+IgorPVPFlag.lua
+
+
+
+

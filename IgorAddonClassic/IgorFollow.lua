@@ -8,7 +8,7 @@ function frame:OnEvent(self, event, ...)
 	
 	if (self == "AUTOFOLLOW_BEGIN") then
 		print(" -- Auto-follow ON -- ")
-		PlayMusic("Interface\\AddOns\\IgorAddon\\Audio\\Audio18Follow.mp3") elseif
+		PlayMusic("Interface\\AddOns\\IgorAddonClassic\\Audio\\Audio18Follow.mp3") elseif
 		StopMusic() then
 	end
 end

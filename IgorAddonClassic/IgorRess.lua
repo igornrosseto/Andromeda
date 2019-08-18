@@ -4,7 +4,7 @@ function frame:OnEvent(self, event, ...)
 
 	if (self == "RESURRECT_REQUEST") then
 	print("Ress inc!")
-	PlaySoundFile("Interface\\AddOns\\IgorAddon\\Audio\\Audio16Ress.mp3")
+	PlaySoundFile("Interface\\AddOns\\IgorAddonClassic\\Audio\\Audio16Ress.mp3")
 	end
 end
 	
