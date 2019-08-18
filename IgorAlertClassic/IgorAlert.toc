@@ -1,0 +1,7 @@
+## Interface: 11320
+## Title:|cff00ccffIgorAlertClassic|r
+## Author: Torbjornsson@Nemesis US
+## eMail: igornrx@gmail.com
+## Notes: Hitekninja's PvP Alert
+## Version: 1.14 Classic
+IgorAlerta.lua
