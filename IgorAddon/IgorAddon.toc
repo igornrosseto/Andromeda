@@ -6,7 +6,7 @@
 ## Version: 1.14
 IgorCore.lua
 IgorDelete.lua
-IgorAlerta.lua
+IgorFlag.lua
 IgorBonusRoll.lua
 IgorWorldPvP.lua
 IgorLootingMethod.lua
@@ -16,6 +16,7 @@ IgorRess.lua
 IgorMail.lua
 IgorFollow.lua
 IgorAFK.lua
+
 
 
 
